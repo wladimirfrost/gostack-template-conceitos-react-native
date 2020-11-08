@@ -1,13 +1,11 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
+<img alt="GoStack" src=".github/header-desafios-new.png" />
 
 <h3 align="center">
   Desafio 04: Conceitos do React Native
 </h3>
 
-<p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
-
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirfrost/gostack-template-conceitos-react-native">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wladimirgrf/conceitos-react-native">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
@@ -48,10 +46,3 @@ Para esse desafio temos os seguintes testes:
 
 - **`should add a like to the like counter of the repository`**: Para que esse teste passe, sua aplicação deve permitir ao clicar no botão `Curtir`, um like seja adicionado ao repositório listado, e que essa atualização possa ser visualizada na tela.
 
-## :calendar: Entrega
-
-Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do repositório que você fez suas alterações. Após concluir o desafio, fazer um post no Linkedin e postar o código no Github é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
